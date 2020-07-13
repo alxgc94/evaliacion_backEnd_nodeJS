@@ -1,0 +1,24 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "server for evaluation backend nojeJS",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alxgc94/evaliacion_backEnd_nodeJS.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alxgc94/evaliacion_backEnd_nodeJS/issues"
+    },
+    "homepage": "https://github.com/alxgc94/evaliacion_backEnd_nodeJS#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1"
+    }
+}
